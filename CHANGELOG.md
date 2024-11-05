@@ -1,5 +1,12 @@
 # @hyperlane-xyz/registry
 
+## 5.0.2
+
+### Patch Changes
+
+- 6ce62e9: Add weETHs logo and metadata
+- 094e425: Fix misnamed warp routes
+
 ## 5.0.1
 
 ### Patch Changes
